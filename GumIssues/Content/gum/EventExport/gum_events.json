@@ -1,0 +1,615 @@
+{
+  "UserEvents": {
+    "f9ec9967d86fe9e7f0995219237a9ed0ccd10501b4427d9c14250529689064d4": [
+      {
+        "NewName": "DialogueScreen",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2025-07-26T23:46:54.6632433Z"
+      },
+      {
+        "NewName": "DialogueScreen.NineSliceInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-26T23:47:49.4926585Z"
+      },
+      {
+        "NewName": "DialogueScreen.NineSliceInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-26T23:50:22.6246689Z"
+      },
+      {
+        "NewName": "DialogueScreen.TextInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-26T23:52:17.3257815Z"
+      },
+      {
+        "NewName": "DialogueScreen.DialogueText",
+        "OldName": "DialogueScreen.TextInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-27T04:01:02.1147892Z"
+      },
+      {
+        "NewName": "DialogueScreen.DialogueWindow",
+        "OldName": "DialogueScreen.NineSliceInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-27T04:01:09.813326Z"
+      },
+      {
+        "NewName": "DialogueScreen.NineSliceInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-27T04:01:22.2743522Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "DialogueScreen.NineSlice NineSliceInstance in DialogueScreen",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2025-07-27T04:02:11.4379814Z"
+      },
+      {
+        "NewName": "DialogueScreen.NineSliceInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-27T04:04:19.0727639Z"
+      },
+      {
+        "NewName": "DialogueScreen.SpriteInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-27T04:05:46.3664646Z"
+      },
+      {
+        "NewName": "DialogueScreen.SpeakerPortrait",
+        "OldName": "DialogueScreen.SpriteInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-27T04:07:35.9602416Z"
+      },
+      {
+        "NewName": "DialogueScreen.SpeakerName",
+        "OldName": "DialogueScreen.NineSliceInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-27T04:08:34.4244672Z"
+      },
+      {
+        "NewName": "DialogueScreen.DialogueText1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-27T04:08:40.1393829Z"
+      },
+      {
+        "NewName": "DialogueScreen.SpeakerNameText",
+        "OldName": "DialogueScreen.DialogueText1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-27T04:08:47.2644034Z"
+      },
+      {
+        "NewName": "MissionDialogueScreen",
+        "OldName": "DialogueScreen",
+        "ElementType": "Screens",
+        "EventType": 2,
+        "TimestampUtc": "2025-07-29T15:20:46.1111526Z"
+      },
+      {
+        "NewName": "DialogueScreen",
+        "OldName": "MissionDialogueScreen",
+        "ElementType": "Screens",
+        "EventType": 2,
+        "TimestampUtc": "2025-07-29T15:22:05.7526077Z"
+      },
+      {
+        "NewName": "MissionStatusScreen",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2025-07-29T16:07:57.8357873Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2025-07-29T16:11:40.9383143Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.NineSliceInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:11:52.7196775Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.EquipPartsScreen",
+        "OldName": "GearCustomizationScreen.NineSliceInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:12:11.1811923Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2025-07-29T16:12:19.7454562Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.EquipPartsScreen1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:14:16.0990303Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.Eq",
+        "OldName": "GearCustomizationScreen.EquipPartsScreen1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:14:24.1516613Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.EquipAugmentsScreen",
+        "OldName": "GearCustomizationScreen.Eq",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:14:31.3494801Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.EquipPartsTab",
+        "OldName": "GearCustomizationScreen.EquipPartsScreen",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:14:40.1490819Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.AugmentsTab",
+        "OldName": "GearCustomizationScreen.EquipAugmentsScreen",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:14:46.1653868Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.PartsTab",
+        "OldName": "GearCustomizationScreen.EquipPartsTab",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:14:49.702096Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.PartsTab1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:15:06.4859201Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.LoadoutTab",
+        "OldName": "GearCustomizationScreen.PartsTab1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:15:39.6389548Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.RectangleInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:16:27.7193059Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.Button",
+        "OldName": "GearCustomizationScreen.RectangleInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:16:31.2307539Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.CloseButton",
+        "OldName": "GearCustomizationScreen.Button",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:16:35.6377867Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "GearCustomizationScreen.Rectangle CloseButton in GearCustomizationScreen",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2025-07-29T16:17:57.5280218Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.SpriteInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:18:00.2358312Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.CloseButton",
+        "OldName": "GearCustomizationScreen.SpriteInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:19:02.05496Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:19:37.1777213Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:19:42.3006127Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.Background",
+        "OldName": "GearCustomizationScreen.AugmentsTab",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:19:54.0712244Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "GearCustomizationScreen.NineSlice LoadoutTab in GearCustomizationScreen",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2025-07-29T16:20:37.6961055Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "GearCustomizationScreen.NineSlice PartsTab in GearCustomizationScreen",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2025-07-29T16:20:37.6996113Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.AugmentTab",
+        "OldName": "GearCustomizationScreen.ContainerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:20:43.8767042Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.Background1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:20:46.6093859Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.AugmentTab1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:20:46.6303857Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.Background2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:20:47.5440046Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.AugmentTab2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:20:47.5555135Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.Background1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:20:54.1240815Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.AugmentTab1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:20:54.1344143Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.PartsTab",
+        "OldName": "GearCustomizationScreen.AugmentTab1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:21:09.1081531Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.AugmentBackground",
+        "OldName": "GearCustomizationScreen.Background",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:21:16.5580254Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.PartsTabBackground",
+        "OldName": "GearCustomizationScreen.Background1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:21:24.7178558Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.AugmentTabBackground",
+        "OldName": "GearCustomizationScreen.AugmentBackground",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:21:29.3414263Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.PartsTabBackground1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:21:32.404058Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.PartsTab1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:21:32.4408716Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.LoadoutTab",
+        "OldName": "GearCustomizationScreen.PartsTab1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:21:37.1970717Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.LoadoutTabBackground",
+        "OldName": "GearCustomizationScreen.PartsTabBackground1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:21:46.0704228Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.HealthMeter",
+        "OldName": "MissionStatusScreen.ContainerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:22:55.285483Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.HealthMeter1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:22:58.9660423Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.ShieldMeter",
+        "OldName": "MissionStatusScreen.HealthMeter1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:23:02.6696703Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.ShieldMeter1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:23:05.8114445Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.BoostMeter",
+        "OldName": "MissionStatusScreen.ShieldMeter1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:23:09.8318554Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.BoostMeter1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:23:45.8105767Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.AbilityBarUI",
+        "OldName": "MissionStatusScreen.BoostMeter1",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:23:53.8308542Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:25:16.9929784Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.BossMeter",
+        "OldName": "MissionStatusScreen.ContainerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:25:23.2779974Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:25:29.5362168Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.GoalX",
+        "OldName": "MissionStatusScreen.ContainerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:25:54.0734531Z"
+      },
+      {
+        "NewName": "MissionStatusScreen.ProgressMeter",
+        "OldName": "MissionStatusScreen.GoalX",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:26:01.782632Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:27:00.1018704Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen.MissionList",
+        "OldName": "MissionSelectionScreen.ContainerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:27:19.8974365Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen.ContainerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:27:24.3440825Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen.MissionMap",
+        "OldName": "MissionSelectionScreen.ContainerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:27:59.350101Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen.NineSliceInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:28:06.2589547Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen.MissionListBackground",
+        "OldName": "MissionSelectionScreen.NineSliceInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:28:15.4142295Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen.NineSliceInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:28:20.6075754Z"
+      },
+      {
+        "NewName": "MissionSelectionScreen.MissionMapBackground",
+        "OldName": "MissionSelectionScreen.NineSliceInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:28:26.1088686Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "GearCustomizationScreen.Sprite CloseButton in GearCustomizationScreen",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2025-07-29T16:32:54.2140747Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.ButtonCloseInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:32:56.8533063Z"
+      },
+      {
+        "NewName": "GearCustomizationScreen.ButtonClose",
+        "OldName": "GearCustomizationScreen.ButtonCloseInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:33:22.3118721Z"
+      },
+      {
+        "NewName": "DialogueScreen.ButtonStandardInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:33:51.7159834Z"
+      },
+      {
+        "NewName": "DialogueScreen.ButtonContinue",
+        "OldName": "DialogueScreen.ButtonStandardInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:35:31.9030211Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "DialogueScreen.Controls/ButtonStandard ButtonContinue in DialogueScreen",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2025-07-29T16:35:45.1909224Z"
+      },
+      {
+        "NewName": "DialogueScreen.ButtonStandardIconInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-29T16:35:47.1412749Z"
+      },
+      {
+        "NewName": "DialogueScreen.ButtonContinue",
+        "OldName": "DialogueScreen.ButtonStandardIconInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-29T16:37:27.8799285Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "Controls/ButtonStandard (Container).Text TextInstance in Controls/ButtonStandard (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2025-07-31T04:54:20.4004067Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "DialogueScreen.Controls/ButtonIcon ButtonContinue in DialogueScreen",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2025-07-31T04:58:14.8857942Z"
+      },
+      {
+        "NewName": "DialogueScreen.ButtonIconInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2025-07-31T04:58:16.7713818Z"
+      },
+      {
+        "NewName": "DialogueScreen.ButtonContinue",
+        "OldName": "DialogueScreen.ButtonIconInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2025-07-31T04:58:22.6607014Z"
+      }
+    ]
+  }
+}
