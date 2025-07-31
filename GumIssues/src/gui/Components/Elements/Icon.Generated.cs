@@ -4,7 +4,7 @@ using MonoGameGum;
 using MonoGameGum.GueDeriving;
 using Gum.Managers;
 using Gum.Wireframe;
-namespace ChaosGears_MonoGame.Components;
+namespace GumIssues.Components;
 partial class Icon : MonoGameGum.Forms.Controls.FrameworkElement
 {
     [System.Runtime.CompilerServices.ModuleInitializer]

@@ -1,7 +1,7 @@
 using Gum.Managers;
 using Gum.Wireframe;
 using Microsoft.Xna.Framework.Graphics;
-namespace ChaosGears_MonoGame.Screens
+namespace GumIssues.Screens
 {
     partial class DialogueScreen
     {

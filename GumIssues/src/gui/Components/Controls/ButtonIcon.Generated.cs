@@ -2,10 +2,10 @@
 using GumRuntime;
 using MonoGameGum;
 using MonoGameGum.GueDeriving;
-using ChaosGears_MonoGame.Components;
+using GumIssues.Components;
 using Gum.Managers;
 using Gum.Wireframe;
-namespace ChaosGears_MonoGame.Components;
+namespace GumIssues.Components;
 partial class ButtonIcon : MonoGameGum.Forms.Controls.Button
 {
     [System.Runtime.CompilerServices.ModuleInitializer]

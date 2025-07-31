@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GumIssues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c147adfc799981432963bf80763dfa6d697e6384")]
 [assembly: System.Reflection.AssemblyProductAttribute("GumIssues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GumIssues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

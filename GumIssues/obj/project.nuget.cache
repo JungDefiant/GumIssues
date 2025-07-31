@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/qb0PCotqo=",
+  "dgSpecHash": "a75SEVsd8yQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bjhab\\Documents\\GameProjects\\MonoGame\\GumIssues\\GumIssues\\GumIssues.csproj",
+  "projectFilePath": "c:\\Users\\bjhab\\Documents\\GameProjects\\MonoGame\\GumIssues\\GumIssues\\GumIssues.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjhab\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512",
     "C:\\Users\\bjhab\\.nuget\\packages\\assimpnet\\4.1.0\\assimpnet.4.1.0.nupkg.sha512",

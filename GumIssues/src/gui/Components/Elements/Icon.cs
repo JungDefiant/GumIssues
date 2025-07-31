@@ -1,6 +1,6 @@
 using Gum.Managers;
 using Gum.Wireframe;
-namespace ChaosGears_MonoGame.Components
+namespace GumIssues.Components
 {
     partial class Icon
     {

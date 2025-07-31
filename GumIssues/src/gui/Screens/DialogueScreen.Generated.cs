@@ -2,10 +2,10 @@
 using GumRuntime;
 using MonoGameGum;
 using MonoGameGum.GueDeriving;
-using ChaosGears_MonoGame.Components;
+using GumIssues.Components;
 using Gum.Managers;
 using Gum.Wireframe;
-namespace ChaosGears_MonoGame.Screens;
+namespace GumIssues.Screens;
 partial class DialogueScreen : MonoGameGum.Forms.Controls.FrameworkElement
 {
     [System.Runtime.CompilerServices.ModuleInitializer]

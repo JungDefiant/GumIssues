@@ -1,10 +1,20 @@
-﻿using ChaosGears_MonoGame.Screens;
+﻿using GumIssues.Screens;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using MonoGameGum;
 
 namespace GumIssues;
+
+public struct GameConfig
+{
+    public string title;
+    public int renderWidth;
+    public int renderHeight;
+    public int resolutionWidth;
+    public int resolutionHeight;
+    public bool fullscreen;
+}
 
 public class Game1 : Game
 {
@@ -15,10 +25,25 @@ public class Game1 : Game
 
     private DialogueScreen dialog;
 
-    public Game1()
+    public Game1(GameConfig config)
     {
         _graphics = new GraphicsDeviceManager(this);
+
+        _graphics.PreferredBackBufferWidth = config.resolutionWidth;
+        _graphics.PreferredBackBufferHeight = config.resolutionHeight;
+        _graphics.PreferredBackBufferFormat = SurfaceFormat.Color;
+        _graphics.PreferredDepthStencilFormat = DepthFormat.Depth24Stencil8;
+        _graphics.IsFullScreen = config.fullscreen;
+
+        _graphics.ApplyChanges();
+
+        // _renderTarget = new RenderTarget2D(GraphicsDevice, config.renderWidth, config.renderHeight);
+
+        Window.Title = config.title;
+
+        Content = Content;
         Content.RootDirectory = "Content";
+
         IsMouseVisible = true;
     }
 
@@ -27,6 +52,7 @@ public class Game1 : Game
         // TODO: Add your initialization logic here
 
         Gum.Initialize(this);
+        Gum.ContentLoader.XnaContentManager = Content;
 
         dialog = new DialogueScreen();
 
@@ -38,14 +64,19 @@ public class Game1 : Game
         _spriteBatch = new SpriteBatch(GraphicsDevice);
 
         // TODO: use this.Content to load your game content here
+
     }
 
     protected override void Update(GameTime gameTime)
     {
-        if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
+        if (
+            GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed
+            || Keyboard.GetState().IsKeyDown(Keys.Escape)
+        )
             Exit();
 
         // TODO: Add your update logic here
+
 
         Gum.Update(gameTime);
 
@@ -61,5 +92,6 @@ public class Game1 : Game
         Gum.Draw();
 
         base.Draw(gameTime);
+
     }
 }

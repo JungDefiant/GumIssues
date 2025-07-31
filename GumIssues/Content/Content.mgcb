@@ -13,3 +13,9 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin gum/ExampleSpriteFrame.png
+/copy:gum/ExampleSpriteFrame.png
+
+#begin gum/UISpriteSheet.png
+/copy:gum/UISpriteSheet.png
+
