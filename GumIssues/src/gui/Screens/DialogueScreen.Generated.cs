@@ -115,7 +115,7 @@ partial class DialogueScreen : MonoGameGum.Forms.Controls.FrameworkElement
         this.DialogueWindow.Height = 96f;
         this.DialogueWindow.HeightUnits = global::Gum.DataTypes.DimensionUnitType.Absolute;
         this.DialogueWindow.Red = 0;
-        this.DialogueWindow.SourceFileName = @"gum/ExampleSpriteFrame.png";
+        this.DialogueWindow.SourceFileName = @"ExampleSpriteFrame.png";
         this.DialogueWindow.TextureAddress = global::Gum.Managers.TextureAddress.EntireTexture;
         this.DialogueWindow.TextureHeight = 24;
         this.DialogueWindow.TextureLeft = 0;
@@ -161,7 +161,7 @@ partial class DialogueScreen : MonoGameGum.Forms.Controls.FrameworkElement
         this.SpeakerName.Height = 20f;
         this.SpeakerName.HeightUnits = global::Gum.DataTypes.DimensionUnitType.Absolute;
         this.SpeakerName.Red = 0;
-        this.SpeakerName.SourceFileName = @"gum/ExampleSpriteFrame.png";
+        this.SpeakerName.SourceFileName = @"ExampleSpriteFrame.png";
         this.SpeakerName.Width = 146f;
         this.SpeakerName.WidthUnits = global::Gum.DataTypes.DimensionUnitType.Absolute;
         this.SpeakerName.X = 48f;

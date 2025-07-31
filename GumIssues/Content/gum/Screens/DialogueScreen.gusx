@@ -151,7 +151,7 @@
       <IsFile>true</IsFile>
       <Type>string</Type>
       <Name>DialogueWindow.SourceFile</Name>
-      <Value xsi:type="xsd:string">gum/ExampleSpriteFrame.png</Value>
+      <Value xsi:type="xsd:string">ExampleSpriteFrame.png</Value>
       <SetsValue>true</SetsValue>
     </Variable>
     <Variable>
@@ -272,7 +272,7 @@
       <IsFile>true</IsFile>
       <Type>string</Type>
       <Name>SpeakerName.SourceFile</Name>
-      <Value xsi:type="xsd:string">gum/ExampleSpriteFrame.png</Value>
+      <Value xsi:type="xsd:string">ExampleSpriteFrame.png</Value>
       <SetsValue>true</SetsValue>
     </Variable>
     <Variable>

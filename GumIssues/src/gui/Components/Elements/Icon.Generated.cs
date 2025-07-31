@@ -656,7 +656,7 @@ partial class Icon : MonoGameGum.Forms.Controls.FrameworkElement
 this.IconSprite.SetProperty("ColorCategoryState", "White");
         this.IconSprite.Height = 0f;
         this.IconSprite.HeightUnits = global::Gum.DataTypes.DimensionUnitType.RelativeToParent;
-        this.IconSprite.SourceFileName = @"gum/UISpriteSheet.png";
+        this.IconSprite.SourceFileName = @"UISpriteSheet.png";
         this.IconSprite.TextureAddress = global::Gum.Managers.TextureAddress.Custom;
         this.IconSprite.TextureHeight = 32;
         this.IconSprite.TextureLeft = 288;

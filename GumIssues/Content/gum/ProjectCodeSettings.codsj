@@ -1,7 +1,7 @@
 {
   "CommonUsingStatements": "using Gum.Managers;\nusing Gum.Wireframe;",
   "CodeProjectRoot": "..\\..\\src\\gui\\",
-  "RootNamespace": "ChaosGears_MonoGame",
+  "RootNamespace": "GumIssues",
   "InheritanceLocation": 1,
   "ObjectInstantiationType": 0,
   "DefaultScreenBase": "Gum.Wireframe.BindableGue",

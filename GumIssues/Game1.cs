@@ -1,4 +1,5 @@
-﻿using GumIssues.Screens;
+﻿using System.Diagnostics;
+using GumIssues.Screens;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -57,6 +58,9 @@ public class Game1 : Game
         dialog = new DialogueScreen();
         dialog.Show();
         dialog.ButtonContinue.Show();
+        dialog.ButtonContinue.Click += (_, _) => {
+            Debug.WriteLine("CLICK!");
+        };
 
         base.Initialize();
     }
@@ -78,6 +82,8 @@ public class Game1 : Game
             Exit();
 
         // TODO: Add your update logic here
+
+        Debug.WriteLine($"WINDOW OVER: {Gum.Cursor.WindowOver}");
 
 
         Gum.Update(gameTime);
