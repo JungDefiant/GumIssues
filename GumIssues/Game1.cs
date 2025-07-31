@@ -55,6 +55,8 @@ public class Game1 : Game
         Gum.ContentLoader.XnaContentManager = Content;
 
         dialog = new DialogueScreen();
+        dialog.Show();
+        dialog.ButtonContinue.Show();
 
         base.Initialize();
     }

@@ -7,7 +7,7 @@ namespace GumIssues.Screens
     {
         partial void CustomInitialize()
         {
-            ButtonContinue.IsVisible = false;
+            // ButtonContinue.IsVisible = false;
             ButtonContinue.ButtonCategoryState = Components.ButtonIcon.ButtonCategory.Focused;
         }
 
